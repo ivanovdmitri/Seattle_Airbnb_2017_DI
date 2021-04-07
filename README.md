@@ -1,8 +1,8 @@
 # Machine learning-inspired recommendations for Airbnb hosts in Seattle, WA
 
 # Important questions:
-* What property, policy, and pricing choices maximize the revenue for Airbnb hosts in Seattle, WA?
-* What are the projected revenue and booking rate for hosts with specific attributes, location, and pricing?
+* What property, policy, and pricing choices maximize the revenue for the Airbnb hosts in Seattle, WA?
+* What are the projected revenue and the booking rate for the hosts with some specific property attributes, pricing, and policies?
 
 ### Available data: Seattle Airbnb open data (01/04/2016 - 01/02/2017)
 * *A sneak peek into the Airbnb activity in Seattle, WA, USA*
