@@ -8,8 +8,8 @@
 * *A sneak peek into the Airbnb activity in Seattle, WA, USA*
 * Taken from https://www.kaggle.com/airbnb/seattle
 
-### [Python code](#Seattle_Airbnb_2017_DI.ipynb)
-### [PowerPoint slides](#Seattle_Airbnb_2017_DI.pptx)
+### [Python code](https://github.com/ivanovdmitri/Seattle_Airbnb_2017_DI/raw/master/Seattle_Airbnb_2017_DI.pptx)
+### [PowerPoint slides](https://github.com/ivanovdmitri/Seattle_Airbnb_2017_DI/raw/master/Seattle_Airbnb_2017_DI.ipynb)
     
 ### Machine learning solution outline
 1. Data cleaning
