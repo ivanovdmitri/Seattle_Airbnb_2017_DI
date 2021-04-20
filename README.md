@@ -16,8 +16,8 @@
     * Examine and clean the property listing and booking data
     * Check and make sure the entries with inf and NaN values are either filtered out or replaced with reasonable default values
 2. Feature engineering
-    * Determine how feature correlate with the revenue and the booking rate
-    * Examine the features' cross-correlation matrices, add and/or remove the features to produce a set of features that correlate with the revenue and the booking rate but don't have strong cross-correlations with each other
+    * Determine how features correlate with the revenue and the booking rate
+    * Examine the features' cross-correlation matrices, add and/or remove the features to produce a set of features that correlate with the revenue and the booking rate but don't have too strong cross-correlations with each other
 3. Build a model
     * Use the popular [xgboost.XGBRegressor](https://xgboost.readthedocs.io/en/latest/python/python_api.html) supervised machine learning model
     * Fit for the revenue and the booking rate using [k-fold cross-validation](#https://scikit-learn.org/stable/modules/cross_validation.html) method with a split level of 5
